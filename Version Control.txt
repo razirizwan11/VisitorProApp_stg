@@ -1,0 +1,3 @@
+updated new validation checks to the NIC and phone Number field
+A back button integrated with the forget password form
+Add visitors page redesigned and space accododated efficiently 
