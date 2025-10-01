@@ -276,7 +276,7 @@ body{
   updateClock();
   setInterval(updateClock, 1000);
 
-  // Blank search validation
+  // Blank search validation this is also a test comment to comit changes in github
   document.getElementById('searchForm').addEventListener('submit', function(e) {
     const q = document.getElementById('searchInput').value.trim();
     if (q === "") {
